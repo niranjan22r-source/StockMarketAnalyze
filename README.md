@@ -282,7 +282,7 @@ It is suitable as an academic project, portfolio project, or beginner-level Data
 
 👨‍💻 Author
 
-Niranjan R
-Harish K
-Kishore A P
-Farid Hasim S
+Niranjan R,
+Harish K,
+Kishore A P,
+Farid Hasim S..
